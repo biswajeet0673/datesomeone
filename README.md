@@ -2,6 +2,8 @@
 
 This is a simple website where you can ask someone if they want to go out with you. It features two buttons, "Yes" and "No". Additionally, the "No" button moves to a random position on the screen when hovered over.
 
+![Website Preview](./image/1.jpg)
+
 ## How to Use
 
 1. Clone or download this repository to your local machine.
